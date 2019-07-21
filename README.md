@@ -3,6 +3,7 @@
 ### Author: Tia Rose
 
 ### Links and Resources
+* [PR]()
 * [AWS](http://resty-redux.s3-website-us-west-2.amazonaws.com)
 
 
@@ -19,13 +20,6 @@
 * `npm test`
 
 #### UML
-## GamePlan
-![GamePlan](./assets/Game_Plan_RR.JPG)
-## Wireframe
-![Wireframe](./assets/Wireframe_RR.JPG)
-## Pre-Redux/Post Modularization
-![Pre-Redux/Post Modularization](./assets/Pre_Redux.JPG)
-## Redux Planning
-![Redux Planning](./assets/Redux_Planning.JPG)
+## Context
+![Context](./assets/RestyContext.JPG)
 
-# Resty-context
