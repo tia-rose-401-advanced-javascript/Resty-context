@@ -1,3 +1,9 @@
+Button example:
+
 ```jsx
-  <Button />
+  return(
+    <button onClick={state.onClick}>
+        Headers
+      </button>
+  )
 ```
