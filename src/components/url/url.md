@@ -1,3 +1,12 @@
 ```jsx
-  <Url />
+  return(
+    <input
+      type="text"
+      className="wide"
+      name="url"
+      placeholder="URL"
+      value={state.url}
+      onChange={state.handleChange}
+    />
+  )
 ```

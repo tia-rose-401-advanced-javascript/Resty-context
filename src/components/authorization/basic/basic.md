@@ -1,4 +1,11 @@
 ```jsx
-  <BasicInputPass onChange={resty.handleChange} value={resty.password}/>
-  <BasicInputUser />
+  return(
+    <input
+    onChange={state.onChange}
+    name="password"
+    type="password"
+    placeholder="Password"
+    value={state.value}
+  />
+  )
 ```
