@@ -3,7 +3,7 @@
 ### Author: Tia Rose
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/tia-rose-401-advanced-javascript/Resty-context/pull/1)
 * [AWS](http://resty-redux.s3-website-us-west-2.amazonaws.com)
 
 
@@ -21,7 +21,8 @@
 
 `PUT /api/v1/:model/id` - Update a single record with the id from a model
 
-### File Structure (Target)
+
+### File Structure
 
 ```
 ├── package.json
