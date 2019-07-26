@@ -9,19 +9,6 @@ import { RestyContext } from "../../../context/restyContext";
  * @description input field for username with info being passed via props
  */
 
-// class BasicInputUser extends React.Component{
-//   render(){
-//     return(
-//       <input
-//           onChange={this.props.onChange}
-//           name="username"
-//           placeholder="Username"
-//           value={this.props.value}
-//         />
-//     )
-//   }
-// }
-
 const BasicInputUser = () => {
   const state = useContext(RestyContext);
   return(
